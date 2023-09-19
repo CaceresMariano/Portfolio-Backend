@@ -14,6 +14,6 @@ app.listen(port, () => {
 app.get("/about", (req, resp) => {
   resp.json(about);
 });
-app.get("/portfolio", (req, resp) => {
+app.get("/", (req, resp) => {
     resp.json(portfolio)
 });
