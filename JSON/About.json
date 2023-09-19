@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Caceres Mariano",
+        "profession": "Backend Developer",
+        "image": "abcd",
+        "abaout_me": "Descripcion de mi persona",
+        "skills": [
+            "TypeScript",
+            "JavaScript",
+            "Node.Js",
+            "Python",
+            "TRPC",
+            "Drizzle_ORM",
+            "MySql",
+            "PostgreSql"
+        ]
+    }
+]
